@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "athena-blueprints"
+version = "0.1.0"
+description = "A small floorplan generation project with a lightweight browser demo and optional ML pipeline."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+ml = [
+    "torch",
+    "torchvision",
+    "transformers",
+    "sentencepiece",
+    "pandas",
+    "numpy",
+    "Pillow",
+    "matplotlib",
+    "scikit-image",
+]
+
+[project.scripts]
+athena = "athena.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

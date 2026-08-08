@@ -178,5 +178,6 @@ checkpoints/
 logs/
 models/
 runs/
+outputs/
 
 .DS_Store

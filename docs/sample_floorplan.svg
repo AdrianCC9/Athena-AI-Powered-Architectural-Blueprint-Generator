@@ -1,0 +1,94 @@
+<svg role="img" aria-label="Sample generated blueprint" viewBox="0 0 920 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#e8eef0" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="920" height="640" fill="#fbfaf6"/>
+  <rect x="0" y="0" width="920" height="640" fill="url(#grid)" opacity="0.8"/>
+  <g>
+    <rect x="42" y="64" width="310" height="299" fill="#d8eef2" stroke="#172026" stroke-width="4"/>
+    <text x="197" y="206" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Living</text>
+    <text x="197" y="227" text-anchor="middle" font-size="12" fill="#52616b">772 sq ft</text>
+  </g>
+  <g>
+    <rect x="352" y="64" width="174" height="299" fill="#f4cfce" stroke="#172026" stroke-width="4"/>
+    <text x="439" y="206" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Office</text>
+    <text x="439" y="227" text-anchor="middle" font-size="12" fill="#52616b">433 sq ft</text>
+  </g>
+  <g>
+    <rect x="42" y="363" width="484" height="127" fill="#f7e0b5" stroke="#172026" stroke-width="4"/>
+    <text x="284" y="420" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Kitchen</text>
+    <text x="284" y="441" text-anchor="middle" font-size="12" fill="#52616b">512 sq ft</text>
+  </g>
+  <g>
+    <rect x="42" y="490" width="484" height="108" fill="#d7dadd" stroke="#172026" stroke-width="4"/>
+    <text x="284" y="538" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Garage</text>
+    <text x="284" y="559" text-anchor="middle" font-size="12" fill="#52616b">435 sq ft</text>
+  </g>
+  <g>
+    <rect x="526" y="64" width="352" height="107" fill="#dcebc2" stroke="#172026" stroke-width="4"/>
+    <text x="702" y="111" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Bedroom 1</text>
+    <text x="702" y="132" text-anchor="middle" font-size="12" fill="#52616b">313 sq ft</text>
+  </g>
+  <g>
+    <rect x="526" y="171" width="352" height="107" fill="#dcebc2" stroke="#172026" stroke-width="4"/>
+    <text x="702" y="218" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Bedroom 2</text>
+    <text x="702" y="239" text-anchor="middle" font-size="12" fill="#52616b">313 sq ft</text>
+  </g>
+  <g>
+    <rect x="526" y="278" width="352" height="107" fill="#dcebc2" stroke="#172026" stroke-width="4"/>
+    <text x="702" y="325" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Bedroom 3</text>
+    <text x="702" y="346" text-anchor="middle" font-size="12" fill="#52616b">313 sq ft</text>
+  </g>
+  <g>
+    <rect x="526" y="385" width="352" height="107" fill="#cbdcf7" stroke="#172026" stroke-width="4"/>
+    <text x="702" y="432" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Bathroom 1</text>
+    <text x="702" y="453" text-anchor="middle" font-size="12" fill="#52616b">313 sq ft</text>
+  </g>
+  <g>
+    <rect x="526" y="492" width="352" height="106" fill="#cbdcf7" stroke="#172026" stroke-width="4"/>
+    <text x="702" y="539" text-anchor="middle" font-size="18" font-weight="800" fill="#172026">Bathroom 2</text>
+    <text x="702" y="560" text-anchor="middle" font-size="12" fill="#52616b">310 sq ft</text>
+  </g>
+  <g>
+    <rect x="62" y="26" width="338" height="38" fill="#cfe8d5" stroke="#172026" stroke-width="4"/>
+    <text x="231" y="41" text-anchor="middle" font-size="13" font-weight="800" fill="#172026">Balcony</text>
+    <text x="231" y="58" text-anchor="middle" font-size="12" fill="#52616b">107 sq ft</text>
+  </g>
+  <rect x="42" y="64" width="836" height="534" fill="none" stroke="#172026" stroke-width="8"/>
+  <path d="M 145 363 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 145 363 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 394 363 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 394 363 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 84 490 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 84 490 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 84 598 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 84 598 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 568 171 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 568 171 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 568 278 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 568 278 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 568 385 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 568 385 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 568 492 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 568 492 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 568 598 h 36" stroke="#fbfaf6" stroke-width="7"/>
+  <path d="M 568 598 q 20 -22 36 -36" fill="none" stroke="#866c3b" stroke-width="3"/>
+  <path d="M 275 64 h 46" stroke="#2d8fb3" stroke-width="6"/>
+  <path d="M 275 71 h 46" stroke="#fbfaf6" stroke-width="2"/>
+  <path d="M 483 64 h 46" stroke="#2d8fb3" stroke-width="6"/>
+  <path d="M 483 71 h 46" stroke="#fbfaf6" stroke-width="2"/>
+  <path d="M 454 363 h 46" stroke="#2d8fb3" stroke-width="6"/>
+  <path d="M 454 370 h 46" stroke="#fbfaf6" stroke-width="2"/>
+  <path d="M 806 64 h 46" stroke="#2d8fb3" stroke-width="6"/>
+  <path d="M 806 71 h 46" stroke="#fbfaf6" stroke-width="2"/>
+  <path d="M 806 171 h 46" stroke="#2d8fb3" stroke-width="6"/>
+  <path d="M 806 178 h 46" stroke="#fbfaf6" stroke-width="2"/>
+  <path d="M 806 278 h 46" stroke="#2d8fb3" stroke-width="6"/>
+  <path d="M 806 285 h 46" stroke="#fbfaf6" stroke-width="2"/>
+  <path d="M 806 385 h 46" stroke="#2d8fb3" stroke-width="6"/>
+  <path d="M 806 392 h 46" stroke="#fbfaf6" stroke-width="2"/>
+  <path d="M 806 492 h 46" stroke="#2d8fb3" stroke-width="6"/>
+  <path d="M 806 499 h 46" stroke="#fbfaf6" stroke-width="2"/>
+</svg>
